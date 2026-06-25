@@ -3,16 +3,16 @@
   "packages": [
     {
       "name": "gu-ji",
-      "display": "古籍字典数据",
-      "version": 2,
+      "display": "数据包名称",
+      "version": 0,
       "url": "https://github.com/TaiJiDict/Data/releases/download/taiJiDict_v1/data-kk.enc",
       "size": "6MB",
-      "description": "初始版本"
+      "description": "注释"
     },
     {
       "name": "sheng-pi",
       "display": "声母韵母数据",
-      "version": 2,
+      "version": 0,
       "url": "https://github.com/TaiJiDict/Data/releases/download/taiJiDict_v1/data-zz.enc",
       "size": "6MB",
       "description": "初始版本"
