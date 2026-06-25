@@ -5,16 +5,16 @@
       "name": "gu-ji",
       "display": "古籍字典数据",
       "version": 1,
-      "url": "https://github.com/oypx007/TaiJiDict-Data/releases/download/v1/data-gu-ji_v1.enc",
-      "size": "0MB",
+      "url": "https://raw.githubusercontent.com/oypx007/TaiJiDict-Data/refs/heads/main/data-kk.enc",
+      "size": "6MB",
       "description": "初始版本"
     },
     {
       "name": "sheng-pi",
       "display": "声母韵母数据",
       "version": 1,
-      "url": "https://github.com/oypx007/TaiJiDict-Data/releases/download/v1/data-sheng-pi_v1.enc",
-      "size": "0MB",
+      "url": "https://raw.githubusercontent.com/oypx007/TaiJiDict-Data/refs/heads/main/data-zz.enc",
+      "size": "6MB",
       "description": "初始版本"
     }
   ]
